@@ -13,7 +13,7 @@ Here’s where you come into the picture. Summer is a great time to get out into
 
 ### Where to go? 
 
-For 2021, we're piloting Mountain Bird Network at three sites: Mt. Seymour, British Columbia; Deception Peak (a.k.a. Ski Santa Fe), New Mexico; and Mt. Hood, Oregon. We're hoping to expand in the coming years, but in the meantime, we're looking for birders in BC, NM, and OR to come and help!
+For 2021, we're piloting Mountain Bird Network at three sites: [Mt. Seymour, British Columbia](https://www.peakbagger.com/peak.aspx?pid=884); [Deception Peak (a.k.a. Ski Santa Fe), New Mexico](https://www.peakbagger.com/peak.aspx?pid=31703); and [Mt. Hood, Oregon](https://www.peakbagger.com/Peak.aspx?pid=2382). We're hoping to expand in the coming years, but in the meantime, we're looking for birders in BC, NM, and OR to come and help!
 
 ### When to go?
 Between sunrise and 10am on any day without rain between June 1 and July 15 - this is the breeding season, and we are interested in documenting breeding season distributions. Even one morning would provide great data (while being a fun excuse to get out into the woods), and the more days you go, the better!
@@ -30,6 +30,6 @@ Mt. Seymour, Deception Peak, and Mt. Hood are all easily accessible and fairly t
 ### What exactly will you do with this data?
 We will use the data from all observers to model species’ abundances along all three elevational gradients, and will share these results with all participants. The goal is to write and publish a scientific manuscript using this data to show how a community-led effort can effectively monitor species’ distributions along mountain slopes. These publications and communications will not disclose the identity of observers. 
 
-For general questions, please contact project leader Ben Freeman, a postdoctoral researcher at University of British Columbia (freeman@zoology.ubc.ca). For New Mexico-specific questions, contact chapter leader Ethan Linck (ethanblinck@gmail.com), a postdoctoral researcher at University of New Mexico. For Oregon-specific questions, contract Matt Chmielewski, a postdoctoral researcher at Temple University. 
+For general questions, please contact project leader Ben Freeman, a postdoctoral researcher at University of British Columbia (freeman@zoology.ubc.ca). For New Mexico-specific questions, contact chapter leader Ethan Linck (ethanblinck@gmail.com), a postdoctoral researcher at University of New Mexico. For Oregon-specific questions, contract Matt Chmielewski (mwchmielewski@gmail.com), a postdoctoral researcher at Temple University. 
 
 
